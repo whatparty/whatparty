@@ -5,11 +5,11 @@
 
 I'm whatparty.
 
-- 🛠️ C++ / Cuda / Python
-- 🔭 Working on a C++ Rasterizer
+- 🛠️ C++ / Cuda / Python 
+- 🔭 Working on a Rasterizer
 - 🌱 Writing my master thesis at BUAA
 - 😄 Pronouns: he/him
-- 💭 Ask me anything at [Discussions](https://github.com/whatparty/whatparty/discussions/new)!
+- 📬 Looking for a job
 
 ---
 

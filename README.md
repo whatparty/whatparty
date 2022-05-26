@@ -16,6 +16,10 @@ I'm whatparty.
 <!--START_SECTION:waka-->
 
 ```text
+From: 18 May 2022 - To: 25 May 2022
+
+Total Time: 16 hrs 33 mins
+
 Python     15 hrs 7 mins   ███████████████████████░░   91.36 %
 Text       39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 JSON       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %

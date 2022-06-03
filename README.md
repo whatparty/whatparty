@@ -16,16 +16,16 @@ I'm whatparty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 May 2022 - To: 01 June 2022
+From: 26 May 2022 - To: 02 June 2022
 
-Total Time: 44 hrs 41 mins
+Total Time: 37 hrs 1 min
 
-Python                     38 hrs 30 mins  █████████████████████▒░░░   85.90 %
-Text                       3 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-Markdown                   1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-HTML                       40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Nginx configuration file   13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Other                      7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Python                     31 hrs 31 mins  █████████████████████▒░░░   84.86 %
+Text                       3 hrs 37 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+Markdown                   57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+HTML                       40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Nginx configuration file   13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Other                      7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->

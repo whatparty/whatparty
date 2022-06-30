@@ -16,15 +16,14 @@ I'm whatparty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 June 2022 - To: 28 June 2022
+From: 22 June 2022 - To: 29 June 2022
 
-Total Time: 9 hrs 25 mins
+Total Time: 7 hrs 48 mins
 
-Python         5 hrs 47 mins   ███████████████░░░░░░░░░░   59.71 %
-Text           2 hrs 30 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.85 %
-Markdown       46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-JSON           18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-Other          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Python         4 hrs 42 mins   ██████████████▒░░░░░░░░░░   57.44 %
+Text           2 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   27.89 %
+JSON           26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Other          22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 ```
 
 <!--END_SECTION:waka-->

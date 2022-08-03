@@ -16,14 +16,7 @@ I'm whatparty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 June 2022 - To: 02 July 2022
-
-Total Time: 3 hrs 52 mins
-
-Text           2 hrs 11 mins   █████████████▒░░░░░░░░░░░   53.43 %
-Python         54 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
-JSON           25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-Other          13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

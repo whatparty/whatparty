@@ -16,13 +16,13 @@ I'm whatparty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 August 2022 - To: 16 August 2022
+From: 11 August 2022 - To: 18 August 2022
 
-Total Time: 1 hr 15 mins
+Total Time: 16 mins
 
-JSON       1 hr 52 mins    ████████████████▓░░░░░░░░   66.38 %
-CSV        25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
-Other      19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
+Text     11 mins         ██████████████▓░░░░░░░░░░   58.87 %
+JSON     4 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
+Other    3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
 ```
 
 <!--END_SECTION:waka-->

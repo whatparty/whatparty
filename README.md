@@ -16,7 +16,7 @@ I'm whatparty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 August 2022 - To: 06 September 2022
+From: 31 August 2022 - To: 07 September 2022
 
 Total Time: 0 secs
 

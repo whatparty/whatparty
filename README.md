@@ -16,7 +16,12 @@ I'm whatparty.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 27 October 2022 - To: 03 November 2022
+
+Total Time: 7 mins
+
+CSV   7 mins          ████████████████████████▓   98.56 %
+INI   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->

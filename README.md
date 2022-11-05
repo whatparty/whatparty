@@ -16,12 +16,14 @@ I'm whatparty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 October 2022 - To: 03 November 2022
+From: 28 October 2022 - To: 04 November 2022
 
-Total Time: 7 mins
+Total Time: 10 mins
 
-CSV   7 mins          ████████████████████████▓   98.56 %
-INI   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+CSV     7 mins          ████████████████▒░░░░░░░░   65.77 %
+INI     3 mins          ████████░░░░░░░░░░░░░░░░░   31.43 %
+Text    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->

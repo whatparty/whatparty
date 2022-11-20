@@ -16,11 +16,7 @@ I'm whatparty.
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 November 2022 - To: 18 November 2022
-
-Total Time: 0 secs
-
-Text   0 secs          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
